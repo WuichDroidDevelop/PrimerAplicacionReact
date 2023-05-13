@@ -1,0 +1,5 @@
+.App {
+    height: 100vh;
+    background: rgb(63, 184, 251);
+    background: radial-gradient( circle, rgba(63, 184, 251, 1) 0%, rgba(227, 35, 35, 1) 100%);
+}
